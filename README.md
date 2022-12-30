@@ -17,8 +17,8 @@ ACtualizado desde hithiub
 * C
 * D
 * E
-  *1
-  *2
-  *3
-    *9
-    *10
+  * 1
+  * 2 
+  * 3
+    * 9
+    * 10
